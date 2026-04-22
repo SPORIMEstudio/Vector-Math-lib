@@ -1,0 +1,10 @@
+class test()
+    func main()
+        x = 5
+        y = 'string'
+        show("This is function")
+        show("X is",x)
+        show("Y is",y)
+    endf
+
+endc
